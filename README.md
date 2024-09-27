@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aderaw Molla</h1>
-<h3 align="center">A passionate Backend developer from Ethiopia</h3>
+<h3 align="center">A passionate Backend developer and AI Enthusiast from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aderawmolla&label=Profile%20views&color=0e75b6&style=flat" alt="aderawmolla" /> </p>
 
