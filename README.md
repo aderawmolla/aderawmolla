@@ -1,28 +1,182 @@
+````md
 <h1 align="center">Hi 👋, I'm Aderaw Molla</h1>
-<h3 align="center">A passionate Fullstack and ERP Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aderawmolla&label=Profile%20views&color=0e75b6&style=flat" alt="aderawmolla" /> </p>
+<h3 align="center">
+Fullstack Developer | ERP Developer | Backend Engineer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aderawmolla" alt="aderawmolla" /></a> </p>
-
-- 🔭 I’m currently working on **ERP Projects and Backend**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aderawmolla](https://github.com/aderawmolla)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aderaw-molla-31b23623b/](https://www.linkedin.com/in/aderaw-molla-31b23623b/)
-
-- 📫 How to reach me **mollaaderaw@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aderaw-molla-31b23623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aderaw-molla-31b23623b/" height="30" width="40" /></a>
+<p align="center">
+Building scalable ERP systems, backend architectures, AI-powered applications, and cloud-ready solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aderawmolla&label=Profile%20Views&color=0e75b6&style=flat" alt="aderawmolla" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aderawmolla&show_icons=true&locale=en&layout=compact" alt="aderawmolla" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aderawmolla&show_icons=true&locale=en" alt="aderawmolla" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aderawmolla&" alt="aderawmolla" /></p>
+- 🔭 Currently working on **ERP Systems, Backend APIs, and AI Integrations**
+- 🌱 Learning more about **Artificial Intelligence, Distributed Systems, and Cloud Architecture**
+- 👨‍💻 Passionate about **ERPNext, Golang, Django, Node.js, and System Design**
+- 💬 Ask me about **ERPNext, Backend Development, Docker, Hasura, and Fullstack Development**
+- 📫 Reach me at: **mollaaderaw@gmail.com**
+- ⚡ Fun Fact: I enjoy solving complex backend and ERP challenges
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aderaw-molla-31b23623b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/aderawmolla" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,django,express" />
+</p>
+
+## 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vue,angular,tailwind,bootstrap,html,css,javascript" />
+</p>
+
+## 🗄️ Database & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,aws,docker" />
+</p>
+
+## ⚙️ Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,linux,graphql,figma,postman,tensorflow" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aderawmolla&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderawmolla&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=aderawmolla&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aderawmolla&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aderawmolla&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 📅 Daily Development Focus
+
+```text
+✅ ERP Development
+✅ Backend APIs
+✅ System Design
+✅ Cloud Deployment
+✅ Artificial Intelligence
+✅ Open Source Contributions
+````
+
+---
+
+# 🚀 Featured Expertise
+
+* ERPNext Customization & Implementation
+* Backend Architecture & API Design
+* Golang & Django Development
+* Docker & Cloud Deployment
+* Fullstack Web Applications
+* AI System Integration
+* PostgreSQL & Database Optimization
+
+---
+
+# ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+# 🧠 Currently Exploring
+
+* Artificial Intelligence for Enterprise Systems
+* AI-powered ERP Solutions
+* Distributed System Design
+* Cloud-native Application Development
+* Advanced Backend Scaling Techniques
+
+---
+
+# 💼 Professional Experience
+
+### ERP & Backend Developer
+
+* Customized ERP systems for multiple companies
+* Built scalable backend systems and APIs
+* Integrated AI and automation into enterprise workflows
+* Worked with Docker, AWS, PostgreSQL, MariaDB, and GraphQL
+* Developed ERP modules for:
+
+  * Finance
+  * HR & Payroll
+  * Procurement
+  * Manufacturing
+  * Stock Management
+  * Sales & Accounting
+
+---
+
+# 📌 Quote I Follow
+
+```text
+"Build systems that solve real business problems."
+```
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
+
+<p align="center">
+⭐️ From <a href="https://github.com/aderawmolla">Aderaw Molla</a>
+</p>
+``` id="w2tmn8"
