@@ -82,7 +82,9 @@
 ## 📈 Monthly Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aderawmolla&theme=tokyo-night&hide_border=true&radius=16&days=90&grid=true" alt="Monthly Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aderawmolla&theme=tokyo-night&hide_border=true&radius=16&height=320&area=true" 
+       alt="Monthly Contribution Activity" 
+       style="max-width:100%; height:auto;" />
 </p>
 
 ---
