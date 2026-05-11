@@ -79,12 +79,16 @@
 
 ---
 
-## 📈 Monthly Contribution Activity
+## 📈 Full Year Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aderawmolla&theme=tokyo-night&hide_border=true&radius=16&height=320&area=true" 
-       alt="Monthly Contribution Activity" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aderawmolla&theme=tokyo-night&hide_border=true&radius=16&height=380&area=true&hide_title=true" 
+       alt="Full Year Contribution Activity" 
        style="max-width:100%; height:auto;" />
+</p>
+
+<p align="center">
+  <em>Scroll horizontally to see the full year • Hover for daily details</em>
 </p>
 
 ---
