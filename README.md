@@ -1,182 +1,138 @@
-````md
 <h1 align="center">Hi 👋, I'm Aderaw Molla</h1>
 
-<h3 align="center">
-Fullstack Developer | ERP Developer | Backend Engineer
-</h3>
+<h3 align="center">Fullstack Developer | ERP Specialist | Backend Engineer</h3>
 
 <p align="center">
-Building scalable ERP systems, backend architectures, AI-powered applications, and cloud-ready solutions.
+  Building robust <strong>ERP systems</strong>, scalable backend architectures, and intelligent enterprise solutions that drive real business impact.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aderawmolla&label=Profile%20Views&color=0e75b6&style=flat" alt="aderawmolla" />
+  <img src="https://komarev.com/ghpvc/?username=aderawmolla&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **ERP Systems, Backend APIs, and AI Integrations**
-- 🌱 Learning more about **Artificial Intelligence, Distributed Systems, and Cloud Architecture**
-- 👨‍💻 Passionate about **ERPNext, Golang, Django, Node.js, and System Design**
-- 💬 Ask me about **ERPNext, Backend Development, Docker, Hasura, and Fullstack Development**
+- 🔭 Currently building **enterprise-grade ERP systems** and **AI-powered business tools**
+- 🌱 Deep diving into **Distributed Systems, Cloud-Native Architecture, and AI/ML for Enterprise**
+- 👨‍💻 Passionate about **ERPNext, Golang, Django, System Design & Clean Architecture**
+- 💬 Ask me about **ERPNext Customization, Backend Scalability, Docker, Hasura, or Fullstack Development**
 - 📫 Reach me at: **mollaaderaw@gmail.com**
-- ⚡ Fun Fact: I enjoy solving complex backend and ERP challenges
+- ⚡ Fun fact: I turn complex business problems into elegant, maintainable systems
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aderaw-molla-31b23623b/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://github.com/aderawmolla" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/aderaw-molla-31b23623b/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://github.com/aderawmolla" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+  </a>
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 🚀 Backend Development
-
+### Backend & Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=go,python,nodejs,django,express" />
+  <img src="https://skillicons.dev/icons?i=go,python,nodejs,django,express,fastapi" />
 </p>
 
-## 🎨 Frontend Development
-
+### Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vue,angular,tailwind,bootstrap,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,javascript,typescript,tailwind,bootstrap,html,css" />
 </p>
 
-## 🗄️ Database & Cloud
-
+### Databases & Cloud
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,aws,docker,kubernetes" />
 </p>
 
-## ⚙️ Tools & Technologies
-
+### Tools & Others
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,linux,graphql,figma,postman,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=git,linux,graphql,hasura,postman,figma,tensorflow,github" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aderawmolla&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderawmolla&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=aderawmolla&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aderawmolla&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aderawmolla&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
----
-
-# 📅 Daily Development Focus
-
-```text
-✅ ERP Development
-✅ Backend APIs
-✅ System Design
-✅ Cloud Deployment
-✅ Artificial Intelligence
-✅ Open Source Contributions
-````
-
----
-
-# 🚀 Featured Expertise
-
-* ERPNext Customization & Implementation
-* Backend Architecture & API Design
-* Golang & Django Development
-* Docker & Cloud Deployment
-* Fullstack Web Applications
-* AI System Integration
-* PostgreSQL & Database Optimization
-
----
-
-# ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
-
-# 🧠 Currently Exploring
-
-* Artificial Intelligence for Enterprise Systems
-* AI-powered ERP Solutions
-* Distributed System Design
-* Cloud-native Application Development
-* Advanced Backend Scaling Techniques
-
----
-
-# 💼 Professional Experience
-
-### ERP & Backend Developer
-
-* Customized ERP systems for multiple companies
-* Built scalable backend systems and APIs
-* Integrated AI and automation into enterprise workflows
-* Worked with Docker, AWS, PostgreSQL, MariaDB, and GraphQL
-* Developed ERP modules for:
-
-  * Finance
-  * HR & Payroll
-  * Procurement
-  * Manufacturing
-  * Stock Management
-  * Sales & Accounting
-
----
-
-# 📌 Quote I Follow
-
-```text
-"Build systems that solve real business problems."
-```
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aderawmolla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderawmolla&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-⭐️ From <a href="https://github.com/aderawmolla">Aderaw Molla</a>
+  <img src="https://streak-stats.demolab.com?user=aderawmolla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-``` id="w2tmn8"
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aderawmolla&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aderawmolla&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+## 🔥 Featured Expertise
+
+- **ERPNext** — Deep customization, implementation & module development
+- **Backend Architecture** — Scalable APIs, Clean Code & System Design
+- **Golang & Django** — High-performance services and enterprise applications
+- **Cloud & DevOps** — Docker, AWS, CI/CD, PostgreSQL optimization
+- **AI Integration** — Embedding intelligence into business workflows
+- **Domain Knowledge** — Finance, HR & Payroll, Manufacturing, Procurement, Inventory & Sales
+
+---
+
+## 💼 Professional Experience
+
+**ERP & Backend Developer**
+
+- Designed and customized **ERP systems** for multiple organizations across various industries
+- Built scalable, production-grade backend services and REST/GraphQL APIs
+- Integrated **AI and automation** to streamline business processes
+- Worked extensively with **Docker, AWS, PostgreSQL, MariaDB, Hasura & ERPNext**
+- Developed and maintained modules for:
+  - Finance & Accounting
+  - HR & Payroll
+  - Procurement & Supply Chain
+  - Manufacturing
+  - Stock & Inventory Management
+
+---
+
+## 🧠 Currently Exploring
+
+- AI-powered ERP solutions and intelligent automation
+- Advanced distributed systems and event-driven architecture
+- Cloud-native development and infrastructure as code
+- Performance optimization at scale
+
+---
+
+## 📌 Quote I Live By
+
+> **"Build systems that solve real business problems."**
+
+---
+
+<div align="center">
+  <strong>Always open to interesting collaborations and challenging projects.</strong><br>
+  Let's build something great together! 🚀
+</div>
