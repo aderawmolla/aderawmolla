@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aderaw Molla</h1>
 
-<h3 align="center">Fullstack Developer | ERP Specialist | Backend Engineer</h3>
+<h3 align="center">Backend Engineer | ERP Specialist | AI-Powered Systems Developer</h3>
 
 <p align="center">
-  Building robust <strong>ERP systems</strong>, scalable backend architectures, and intelligent enterprise solutions that drive real business impact.
+  Building <strong>AI-powered ERP systems</strong>, scalable backend architectures, and intelligent enterprise solutions that solve real business problems.
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **enterprise-grade ERP systems** and **AI-powered business tools**
-- 🌱 Deep diving into **Distributed Systems, Cloud-Native Architecture, and AI/ML for Enterprise**
-- 👨‍💻 Passionate about **ERPNext, Golang, Django, System Design & Clean Architecture**
-- 💬 Ask me about **ERPNext Customization, Backend Scalability, Docker, Hasura, or Fullstack Development**
+- 🔭 Currently focused on **AI-powered ERP systems** and advanced backend architectures
+- 🌱 Deep diving into **Artificial Intelligence, Distributed Systems, and Cloud-Native Architecture**
+- 👨‍💻 Passionate about **ERPNext, FastAPI, Golang, Django, System Design & Clean Architecture**
+- 💬 Ask me about **ERPNext Customization, FastAPI, Backend Scalability, Docker, Hasura, or AI Integrations**
 - 📫 Reach me at: **mollaaderaw@gmail.com**
-- ⚡ Fun fact: I turn complex business problems into elegant, maintainable systems
+- ⚡ Fun fact: I enjoy turning complex business challenges into efficient, intelligent systems
 
 ---
 
@@ -40,12 +40,7 @@
 
 ### Backend & Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,nodejs,django,express,fastapi" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,angular,javascript,typescript,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,go,nodejs,django,express" />
 </p>
 
 ### Databases & Cloud
@@ -53,10 +48,12 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,aws,docker,kubernetes" />
 </p>
 
-### Tools & Others
+### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,graphql,hasura,postman,figma,tensorflow,github" />
+  <img src="https://skillicons.dev/icons?i=git,linux,graphql,hasura,postman,tensorflow,github" />
 </p>
+
+> *Occasionally work with React & Next.js when needed.*
 
 ---
 
@@ -91,11 +88,11 @@
 
 ## 🔥 Featured Expertise
 
+- **AI-Powered ERP** — Integrating intelligence into enterprise systems
 - **ERPNext** — Deep customization, implementation & module development
-- **Backend Architecture** — Scalable APIs, Clean Code & System Design
-- **Golang & Django** — High-performance services and enterprise applications
+- **FastAPI & Backend Architecture** — High-performance, scalable APIs and clean design
+- **Golang & Django** — Building robust and efficient services
 - **Cloud & DevOps** — Docker, AWS, CI/CD, PostgreSQL optimization
-- **AI Integration** — Embedding intelligence into business workflows
 - **Domain Knowledge** — Finance, HR & Payroll, Manufacturing, Procurement, Inventory & Sales
 
 ---
@@ -104,16 +101,11 @@
 
 **ERP & Backend Developer**
 
-- Designed and customized **ERP systems** for multiple organizations across various industries
-- Built scalable, production-grade backend services and REST/GraphQL APIs
-- Integrated **AI and automation** to streamline business processes
-- Worked extensively with **Docker, AWS, PostgreSQL, MariaDB, Hasura & ERPNext**
-- Developed and maintained modules for:
-  - Finance & Accounting
-  - HR & Payroll
-  - Procurement & Supply Chain
-  - Manufacturing
-  - Stock & Inventory Management
+- Designed and customized **ERP systems** for multiple organizations
+- Built scalable, production-grade backend services and APIs (FastAPI + others)
+- Integrated **AI and automation** to optimize business workflows
+- Worked extensively with **Docker, AWS, PostgreSQL, ERPNext, Hasura & GraphQL**
+- Developed modules for Finance, HR & Payroll, Procurement, Manufacturing, and Stock Management
 
 ---
 
@@ -121,8 +113,8 @@
 
 - AI-powered ERP solutions and intelligent automation
 - Advanced distributed systems and event-driven architecture
-- Cloud-native development and infrastructure as code
-- Performance optimization at scale
+- Cloud-native development & scaling backend systems
+- Machine Learning applications in enterprise environments
 
 ---
 
@@ -133,6 +125,6 @@
 ---
 
 <div align="center">
-  <strong>Always open to interesting collaborations and challenging projects.</strong><br>
-  Let's build something great together! 🚀
+  <strong>Always open to interesting collaborations on AI + ERP or challenging backend projects.</strong><br><br>
+  Let's build something impactful together! 🚀
 </div>
