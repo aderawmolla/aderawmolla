@@ -40,7 +40,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
   <a href="https://t.me/+251921050699" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/telegram.svg" alt="Telegram" height="40" width="40" />
   </a>
 </p>
 
