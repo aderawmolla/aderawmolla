@@ -39,10 +39,12 @@
   <a href="https://wa.me/251921050699" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
-  <a href="https://t.me/+251921050699" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
+  <a href="https://t.me/yourusername" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram" height="40" width="40" />
   </a>
 </p>
+
+> **Note:** Replace `yourusername` in the Telegram link with your actual Telegram username (e.g., `https://t.me/aderawmolla`)
 
 ---
 
