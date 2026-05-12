@@ -1,6 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Aderaw Molla</h1>
 
-<h3 align="center">Backend Engineer | ERP Specialist | AI-Powered Systems Developer</h3>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer;ERP+Specialist;AI-Powered+Systems+Developer;Problem+Solver+%F0%9F%A7%A0;Good+Listener+Before+Coder">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer;ERP+Specialist;AI-Powered+Systems+Developer;Problem+Solver+%F0%9F%A7%A0;Good+Listener+Before+Coder" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   Building <strong>AI-powered ERP systems</strong>, scalable backend architectures, and intelligent enterprise solutions.
@@ -14,12 +19,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently focused on **AI-powered ERP systems** and advanced backend architectures
-- 🌱 Deep diving into **Artificial Intelligence, Distributed Systems, and Cloud-Native Architecture**
-- 👨‍💻 Passionate about **ERPNext, FastAPI, Golang, Django & System Design**
-- 💬 Ask me about **ERPNext, FastAPI, Backend Scalability, Docker, or AI Integrations**
-- 📫 Reach me at: **mollaaderaw@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex business problems into intelligent, scalable systems
+- 🔭 Currently focused on **AI-powered ERP systems** and advanced backend architectures  
+- 🌱 Deep diving into **Artificial Intelligence, Distributed Systems, and Cloud-Native Architecture**  
+- 👨‍💻 Passionate about **ERPNext, FastAPI, Golang, Django & System Design**  
+- 💬 Ask me about **ERPNext, FastAPI, Backend Scalability, Docker, or AI Integrations**  
+- 📫 Reach me at: **mollaaderaw@gmail.com**  
+- ⚡ Fun fact: I focus on **understanding the problem deeply** before writing a single line of code
 
 ---
 
@@ -31,6 +36,12 @@
   </a>
   <a href="https://github.com/aderawmolla" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://wa.me/251921050699" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
+  </a>
+  <a href="https://t.me/+251921050699" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" />
   </a>
 </p>
 
@@ -133,7 +144,7 @@
 
 ## 📌 Quote I Live By
 
-> **"Build systems that solve real business problems."**
+> **"Understand the problem deeply before writing the first line of code."**
 
 ---
 
